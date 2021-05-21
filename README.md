@@ -1,5 +1,5 @@
 - 👋 Oi, sou @fabioacarvalho sou formado em engenharia civil e especialista em projetos BIM 
-- 👀 I’m interested in front-end back-end AI
+- 👀 Estou interessado em front-end back-end AI
 - 🌱 Atualmente tenho cursado Análise e Desenvolvimento de Sistemas
 - 💞️ Já fiz alguns cursos como Vue JS, JavaScript, MySQL, Python 3...
 
