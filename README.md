@@ -11,6 +11,7 @@
 
 Skills 🤓
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0UF2DAhJmYBahraoYPBqov&ust=1621812267397000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjkttK33vACFQAAAAAdAAAAABAD" alt="javaScript.png">
                       
 
 
