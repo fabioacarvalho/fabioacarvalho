@@ -14,8 +14,7 @@
 
 <h1>Skills 🤓</h1>
 
-<span align-items="center" >
-    
+<div justify-content="space-between" align-items="center" >
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript">
     
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java">
@@ -29,7 +28,7 @@
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
     
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
-</span>
+</div>
 
 <!---
 fabioacarvalho/fabioacarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
