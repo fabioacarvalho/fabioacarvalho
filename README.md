@@ -14,7 +14,7 @@
 
 <h1>Skills 🤓</h1>
 
-<span justify-content="space-around"; >
+<span justify-content="space-between" align-items="center" >
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript">
     
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java">
