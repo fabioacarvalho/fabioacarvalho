@@ -6,7 +6,13 @@
 <li>🐱‍💻 Interesse: Java, Vue JS, html, css, javaScript, React, c# , .net, Python, Mongo DB e MySQL. </li>
 <li>⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias. </li>
 <li>🐱‍🏍Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor. </li>
-<ol/>
+</ol>
+
+<style>
+    li {
+        list-style: none;
+    }
+</style>
 
 Skills 🤓
 
