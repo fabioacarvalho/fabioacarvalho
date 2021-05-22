@@ -8,6 +8,7 @@
 
 Skills 🤓
 
+<img src="https://www.google.com/search?q=javascript&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj3rJDRt97wAhVbs5UCHbAjC4YQ_AUoAXoECAEQAw&biw=1366&bih=657#imgrc=Swa-N3Ndk5oU9M" />
 
 
 
