@@ -1,6 +1,6 @@
-###Sejam Bem Vindos(a) ao meu Perfil###
+**Sejam Bem Vindos(as) ao meu Perfil**
 
-##Eu sou **@fabioacarvalho** sou Engenheiro Civil Especialista em projetos BIM##
+Eu sou **@fabioacarvalho** sou Engenheiro Civil Especialista em Projetos BIM
 
 Atualmente estou cursos Análise e Desenvolvimento de Sistemas, comecei a estudar programação no final de 2020 
 e desde então já realizei alguns cursos como **VueJS, MySQL, JavaScript, HTML5, CSS3, React, NodeJS, Entre outros...**
