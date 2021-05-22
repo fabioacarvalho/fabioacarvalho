@@ -1,13 +1,13 @@
-- 👋 Oi, sou @fabioacarvalho sou formado em engenharia civil e especialista em projetos BIM 
-- 👀 Estou interessado em front-end back-end AI
-- 🌱 Atualmente tenho cursado Análise e Desenvolvimento de Sistemas
-- 💞️ Já fiz alguns cursos como Vue JS, JavaScript, MySQL, Python 3...
+#Seja Bem Vindo ao meu perfil.
 
-Movido a desafios e um entusiasta por melhorias, sempre em busca de novas soluções e tecnologias. 
+##Eu sou **@fabioacarvalho** sou Engenheiro Civil Especialista em projetos BIM.
+Atualmente estou cursos Análise e Desenvolvimento de Sistemas, comecei a estudar programação no final de 2020 
+e desde então já realizei alguns cursos como **VueJS, MySQL, JavaScript, HTML5, CSS3, React, NodeJS, Entre outros...**
 
-Não tenho medo de mudanças e admitir que preciso mudar de caminho quando o primeiro plano não funcionou.
+Sou movido a desafios e vivo em busca de novas soluções e tecnologias.
+Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.
 
-Sou dedicado, organizado, honesto e otimista. Compactuo com o estilo de vida Lifelong Learning, adoro aprender, ajudar e ver as pessoas crescendo ao meu lado.
+
 
 <!---
 fabioacarvalho/fabioacarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
