@@ -1,7 +1,7 @@
 <h1>Abstract</h1>
 <hr>
-<ol>
-<li list-style="none";>👨‍💻 Eu sou **@fabioacarvalho** sou Engenheiro Civil | Especialista em Projetos BIM. </li>
+<ollist-style="none";>
+<li >👨‍💻 Eu sou **@fabioacarvalho** sou Engenheiro Civil | Especialista em Projetos BIM. </li>
 <li>🌱 Estudante de Análise e Desenvolvimento de Sistemas, 1° semestre. </li>
 <li>🐱‍💻 Interesse: Java, Vue JS, html, css, javaScript, React, c# , .net, Python, Mongo DB e MySQL. </li>
 <li>⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias. </li>
