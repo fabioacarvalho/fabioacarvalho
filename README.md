@@ -30,13 +30,13 @@
 
 <p align="center">
     <a href="https://github.com/fabioacarvalho">
-        <img src="https://camo.githubusercontent.com/4c51da250cdef5906bb8a72701595eaa4fb9b78422e87fe83321a30d51c84c06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333130303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a68747470733a2f2f6769746875622e636f6d2f746574657573417261756a6f" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;">
     </a>             
-        <a href="mailto:fabio22191@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:fabio22191@gmail.com" style="max-width:100%;">
-    </a>               
+    <a href="mailto:fabio22191@gmail.com">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:fabio22191@gmail.com" style="max-width:100%;">
+    </a>             
     <a href="https://www.linkedin.com/in/fabio-carvalho-881026142/" rel="nofollow">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emojipng.com%2Fpreview%2F12989230&psig=AOvVaw0v9r29KZlr3-lIOKn89J8T&ust=1621815370654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCbkpvD3vACFQAAAAAdAAAAABAS" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/fabio-carvalho-881026142/" style="max-width:100%;">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/fabio-carvalho-881026142/" style="max-width:100%;">
     </a>
 </p>
 
