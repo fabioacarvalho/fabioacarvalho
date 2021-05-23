@@ -21,6 +21,7 @@
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"></a>    
     <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="spring" data-canonical-src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="spring" data-canonical-src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="max-width:100%;"></a>
 </p>
 
 <h2> Contact 📱</h2>
