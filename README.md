@@ -34,7 +34,6 @@
     </a>             
     <a href="mailto:fabio22191@gmail.com">
         <img src="https://camo.githubusercontent.com/30f2ec732716a5887b40a62aa5c463269bcd1078b9ca20cd16f5e71a5ede48b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4431343833363f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d6174657573617261756a6f39393640676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:fabio22191@gmail.com" style="max-width:100%;">
-    </a>             
     <a href="https://www.linkedin.com/in/fabio-carvalho-881026142/" rel="nofollow">
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emojipng.com%2Fpreview%2F12989230&psig=AOvVaw0v9r29KZlr3-lIOKn89J8T&ust=1621815370654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCbkpvD3vACFQAAAAAdAAAAABAS" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/fabio-carvalho-881026142/" style="max-width:100%;">
     </a>
