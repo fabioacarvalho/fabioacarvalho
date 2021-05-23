@@ -5,7 +5,7 @@
 🌱 Estudante de Análise e Desenvolvimento de Sistemas, 1° semestre. <br>
 🐱‍💻 Interesse: Java, Vue JS, html, css, javaScript, React, c# , .net, Python, Mongo DB e MySQL.  <br>
 ⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias.  <br>
-🐱‍🏍Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.  <br>
+🐱‍ 🏍Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.  <br>
 
 <br>
 
