@@ -30,13 +30,13 @@
 
 <p align="center">
     <a href="https://github.com/fabioacarvalho">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;">
+        <img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;">
     </a>             
     <a href="mailto:fabio22191@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:fabio22191@gmail.com" style="max-width:100%;">
+        <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:fabio22191@gmail.com" style="max-width:100%;">
     </a>             
     <a href="https://www.linkedin.com/in/fabio-carvalho-881026142/" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/fabio-carvalho-881026142/" style="max-width:100%;">
+        <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/fabio-carvalho-881026142/" style="max-width:100%;">
     </a>
 </p>
 
