@@ -26,9 +26,11 @@
 
 <h2> Projetos Iniciais 👨‍💻</h2>
 
-<a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> 
-<a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/projeto-site/index.html">Primeiro Site Curso Em Vídeo</a>  
+🖥 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> 
+<br>
+📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/projeto-site/index.html">Primeiro Site Curso Em Vídeo</a>  
 
+<br>
 
 <h2> Contact 📱</h2>
 
