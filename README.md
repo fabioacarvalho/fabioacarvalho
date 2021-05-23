@@ -24,6 +24,13 @@
     <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/python/python-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="spring" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="max-width:100%;"></a>
 </p>
 
+<h2> Projetos Iniciais 👨‍💻</h2>
+
+<a target="_blank" href="https://github.com/fabioacarvalho">
+        <img height="40" src="https://image.shutterstock.com/image-vector/qr-code-on-mobile-cell-600w-1622335621.jpg" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;">
+    </a> 
+
+
 <h2> Contact 📱</h2>
 
 <p align="center">
