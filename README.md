@@ -7,6 +7,7 @@
 ⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias.  <br>
 🐱‍🏍Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.  <br>
 
+<br>
 
 <h2>Skills 🤓</h2>
 
