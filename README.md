@@ -1,5 +1,4 @@
 <h1>Abstract</h1>
-<hr>
 
 👨‍💻 Eu sou **@fabioacarvalho** sou Engenheiro Civil | Especialista em Projetos BIM. <br>
 🌱 Estudante de Análise e Desenvolvimento de Sistemas, 1° semestre. <br>
@@ -26,7 +25,6 @@
 </p>
 
 <h2> Contact 📱</h2>
-<hr>
 
 <p align="center">
     <a href="https://github.com/fabioacarvalho">
