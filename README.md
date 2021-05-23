@@ -26,12 +26,8 @@
 
 <h2> Projetos Iniciais 👨‍💻</h2>
 
-<a target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/"> 
-        <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPgt-q7K1gF94mCdBUhM-h4N6YH4DNH_8Dw&usqp=CAU" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;"> Gerador QR-Code:
-    </a> 
-<a target="_blank" href="https://fabioacarvalho.github.io/projeto-site/index.html">
-                    <img height="40" src="https://fabioacarvalho.github.io/projeto-site/imagens/curso-em-video-cor.png" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/fabioacarvalho" style="max-width:100%;">
-                </a>  
+<a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> 
+<a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/projeto-site/index.html">Primeiro Site Curso Em Vídeo</a>  
 
 
 <h2> Contact 📱</h2>
