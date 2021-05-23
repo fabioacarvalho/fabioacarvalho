@@ -1,22 +1,18 @@
 <h1>Abstract</h1>
 <hr>
-<ol list-style="none";>
-<li >👨‍💻 Eu sou **@fabioacarvalho** sou Engenheiro Civil | Especialista em Projetos BIM. </li>
-<li>🌱 Estudante de Análise e Desenvolvimento de Sistemas, 1° semestre. </li>
-<li>🐱‍💻 Interesse: Java, Vue JS, html, css, javaScript, React, c# , .net, Python, Mongo DB e MySQL. </li>
-<li>⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias. </li>
-<li>🐱‍🏍Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor. </li>
-</ol>
 
-<br>
-<hr>
-<br>
+👨‍💻 Eu sou **@fabioacarvalho** sou Engenheiro Civil | Especialista em Projetos BIM. <br>
+🌱 Estudante de Análise e Desenvolvimento de Sistemas, 1° semestre. <br>
+🐱‍💻 Interesse: Java, Vue JS, html, css, javaScript, React, c# , .net, Python, Mongo DB e MySQL.  <br>
+⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias.  <br>
+🐱‍🏍Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.  <br>
+
 
 <h2>Skills 🤓</h2>
 
-<p align="center" margin="15px">
+<p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;"></a>                 
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img margin="15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></a>                 
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;"></a>                 
