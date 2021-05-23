@@ -24,6 +24,8 @@
     <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/python/python-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="spring" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="max-width:100%;"></a>
 </p>
 
+<br>
+
 <h2> Projetos Iniciais 👨‍💻</h2>
 
 🖥 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> 
