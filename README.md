@@ -33,8 +33,6 @@
 <br>
 📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/projeto-site/index.html">Primeiro Site Curso Em Vídeo</a>  
 <br>
-📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Calculo-de-Juros-Compostos/">Calculadora de Juros Compostos</a>    
-<br>
 
 <h2> Contact 📱</h2>
 
