@@ -32,7 +32,7 @@
 🖥 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> 
 <br>
 📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Calculadora-de-Juros/">Calculadora de Jusros Compostos</a>  
-✔️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/check-do/">Check-do (TO-DO com base na Matriz de Einsenhower)</a>  
+✔️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/check-do-home/">Check-do (TO-DO com base na Matriz de Einsenhower)</a>  
 <br>
 
 
