@@ -1,7 +1,7 @@
 <h1> Hi Welcome 👋</h1> 
 <h2>Abstract</h2>
 
-👨‍💻 Eu sou **@fabioacarvalho** | Engenheiro Civil | Especialista em Projetos BIM. <br>
+👨‍💻 Eu sou **@fabioacarvalho** | Engenheiro Civil <br>
 🌱 Estudante de Análise e Desenvolvimento de Sistemas, 4° semestre. <br>
 🐱‍💻 Interesse: Java, Vue JS, javaScript, React, c# , .net, Python, Mongo DB, MySQL, I.A. e Machine Learning.  <br>
 ⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias.  <br>
