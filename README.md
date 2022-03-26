@@ -24,6 +24,7 @@
     <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/python/python-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="spring" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="max-width:100%;"></a>
         <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="spring" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="spring" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="max-width:100%;"></a>
     
 </p>
 
