@@ -1,8 +1,8 @@
 <h1> Hi Welcome 👋</h1> 
 <h2>Abstract</h2>
 
-👨‍💻 Eu sou **@fabioacarvalho** | Engenheiro Civil <br>
-🌱 Estudante de Análise e Desenvolvimento de Sistemas, 4° semestre. <br>
+👨‍💻 Eu sou **@fabioacarvalho** | Engenheiro <br>
+🌱 Desenvolvimento de Sistemas. <br>
 🐱‍💻 Interesse: Java, Vue JS, javaScript, React, c# , .net, Python, Mongo DB, MySQL, I.A. e Machine Learning.  <br>
 ⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias.  <br>
 🏍 Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.  <br>
