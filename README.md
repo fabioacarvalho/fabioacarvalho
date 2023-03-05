@@ -39,6 +39,9 @@
 📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Calculadora-de-Juros/">Calculadora de Jusros Compostos</a>  
 ✔️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/check-do-home/">Check-do (TO-DO com base na Matriz de Einsenhower)</a>  
 <br>
+🕹️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/mario-instance/">Super Mario</a>  
+<br>
+
 
 
 <h2> Contact 📱</h2>
