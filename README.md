@@ -1,11 +1,11 @@
 <h1> Hi Welcome 👋</h1> 
 <h2>Abstract</h2>
 
-👨‍💻 Eu sou **@fabioacarvalho** | Engenheiro <br>
-🌱 Desenvolvimento de Sistemas. <br>
-🐱‍💻 Interesse: Java, Vue JS, javaScript, React, c# , .net, Python, Mongo DB, MySQL, I.A. e Machine Learning.  <br>
-⛷ Sou movido a desafios e vivo em busca de novas soluções e tecnologias.  <br>
-🏍 Vivo o estilo de vida  __LifeLong Learning__ gosto de aprender e ajudar as pessoas ao meu redor.  <br>
+👨‍💻 I'm **@fabioacarvalho** | Engineer <br>
+🌱 System Developer. <br>
+🐱‍💻 Interest: Java, Vue JS, javaScript, React, c# , .net, Python, Mongo DB, MySQL, I.A. e Machine Learning.  <br>
+⛷ I'm driven by challenges and live in search of new soloutions and technologies. <br>
+🏍 I live the __LifeLong Learning__ lifestyle I enjoy learning and helping people around me.  <br>
 
 <br>
 
@@ -32,7 +32,7 @@
 
 <br>
 
-<h2> Projetos Iniciais 👨‍💻</h2>
+<h2> Some Projects 👨‍💻</h2>
 
 🖥 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> 
 <br>
