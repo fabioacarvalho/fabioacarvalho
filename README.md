@@ -3,7 +3,7 @@
 
 👨‍💻 I'm **@fabioacarvalho** | Engineer <br>
 🌱 System Developer. <br>
-🐱‍💻 Interest: Java, Vue JS, javaScript, React, c# , .net, Python, Mongo DB, MySQL, I.A. e Machine Learning.  <br>
+🐱‍💻 Interest: Python, Django, Django Rest Framework, Flask, Java, Vue JS, javaScript, ReactJS, Mongo DB, MySQL, Docker, I.A. e Machine Learning.  <br>
 ⛷ I'm driven by challenges and live in search of new soloutions and technologies. <br>
 🏍 I live the __LifeLong Learning__ lifestyle I enjoy learning and helping people around me.  <br>
 
@@ -12,7 +12,10 @@
 <h2>Skills 🤓</h2>
 
 <p align="center" gap=".5rem">
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;"></a>                 
+    <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" style="max-width:100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" style="max-width:100%;"></a>  
+    <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" style="max-width:100%;"></a>  
+    <a target="_blank" rel="noopener noreferrer" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></a>                 
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></a>                               
