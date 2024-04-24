@@ -1,9 +1,8 @@
 <h1> Hi Welcome 👋</h1> 
 <h2>Abstract</h2>
 
-👨‍💻 I'm **@fabioacarvalho** | Engineer <br>
-🌱 System Developer. <br>
-🐱‍💻 Interest: Python, Django, Django Rest Framework, Flask, Java, Vue JS, javaScript, ReactJS, Mongo DB, MySQL, Docker, I.A. e Machine Learning.  <br>
+👨‍💻 I'm **@fabioacarvalho** | Engineer | Software Developer <br>
+🐱‍💻 Interest: Python, Django, Django Rest Framework, Flask, Java, C#, Go, Vue JS, javaScript, ReactJS, Mongo DB, MySQL, Docker, I.A. e Machine Learning.  <br>
 ⛷ I'm driven by challenges and live in search of new soloutions and technologies. <br>
 🏍 I live the __LifeLong Learning__ lifestyle I enjoy learning and helping people around me.  <br>
 
