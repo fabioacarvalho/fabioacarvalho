@@ -85,12 +85,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=fabioacarvalho&theme=dracula" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/fabioacarvalho/fabioacarvalho/output/snake.svg" alt="Snake animation" />
 
 ###
