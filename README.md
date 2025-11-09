@@ -27,8 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -45,7 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
 
@@ -55,7 +52,7 @@
 
 ###
 
-<p align="left">🖥 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Gerador-QR-Code/">Gerador QR-Code</a> <br> 🖥 <a text-decoration="none" target="_blank" href="https://top-pdfs.streamlit.app/">Merge PDFs</a> <br>📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Calculadora-de-Juros/">Calculadora de Jusros Compostos</a>  <br>✔️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/check-do-home/">Check-do (TO-DO com base na Matriz de Einsenhower)</a>  <br>🕹️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/mario-instance/">Super Mario</a></p>
+<p align="left"> 🖥 <a text-decoration="none" target="_blank" href="https://top-pdfs.streamlit.app/">Merge PDFs</a> <br>📱 <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/Calculadora-de-Juros/">Calculadora de Jusros Compostos</a>  <br> 🕹️ <a text-decoration="none" target="_blank" href="https://fabioacarvalho.github.io/mario-instance/">Super Mario</a></p>
 
 ###
 
