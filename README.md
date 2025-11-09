@@ -4,6 +4,13 @@
 
 <p align="left">👨‍💻 I'm @fabioacarvalho | Engineer | Software Developer<br>⛷ I'm driven by challenges and live in search of new soloutions and technologies.<br>🏍 I live the LifeLong Learning lifestyle I enjoy learning and helping people around me.</p>
 
+<p align="left">
+  👨‍💻 Throughout my career, I have worked on challenging projects, such as: <br>
+	•	Development of ERP system modules for contract management, platform integration, work order generation, and workflow automation. <br>
+	•	Creation of offline-first mobile applications, including flight logs for commercial and agricultural aviation, with features such as user management, discrepancy reporting, and operational reporting. <br>
+	•	Update of financial reports and optimization of internal processes, automating tasks and increasing operational efficiency. <br>
+</p>
+
 ###
 
 <h2 align="left">Techs and Skills</h2>
